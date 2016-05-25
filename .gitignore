@@ -45,6 +45,6 @@ Thumbs.db
 ######################
 node_modules/
 bower_components/
-app_data/
+app_data/cache/
 bin/
 obj/
